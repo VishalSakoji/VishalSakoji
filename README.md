@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VishalSakoji
-- 👀 I’m interested in implimentation of my knowledge
+- 👀 I’m interested in implementation of my knowledge
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
